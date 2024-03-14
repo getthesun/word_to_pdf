@@ -1,0 +1,6 @@
+*.pyc  
+*~  
+__pycache__  
+word_to_pdf_venv  
+/static  
+.DS_Store  
